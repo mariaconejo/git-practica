@@ -1,3 +1,5 @@
+
+}
 {
   "listado": [{
     "nombre": "Jose Leiva",
@@ -27,6 +29,10 @@
   {
     "nombre": "Nycoll",
     "repositorio": "https://github.com/NycollSM/taller-git.git"
+  }
+  { 
+    "nombre" : "mariaconejo"
+    "repositorio": "https://github.com/mariaconejo/taller-git"
   }
 ]
 }
